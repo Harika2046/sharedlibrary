@@ -1,8 +1,8 @@
 package com.jdp
 
-def call(buildno 1) 
+def call() 
 {
-echo buildno 
+echo 'Hello' 
 }
 
 
